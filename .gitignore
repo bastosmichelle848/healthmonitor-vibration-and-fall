@@ -1,0 +1,33 @@
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# Node.js
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arduino build files
+build/
+*.hex
+*.elf
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
