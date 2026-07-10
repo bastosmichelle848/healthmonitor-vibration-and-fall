@@ -20,8 +20,8 @@
 #define LIMITE_QUEDA_MEDIA     30    // contagem >= 30 → impacto forte
 
 // ─── Wi-Fi e MQTT ────────────────────────────────────────────
-const char* ssid             = "Michelleb";
-const char* password         = "280989mi";
+const char* ssid             = "youruser";
+const char* password         = "yourpassword";
 const char* mqtt_server      = "test.mosquitto.org";
 //const char* mqtt_server      = "10.15.102.147";
 const int   mqtt_port        = 1883;
